@@ -1,0 +1,24 @@
+<!--ion-header>
+  <ion-toolbar>
+    <ion-title>bug-hunter</ion-title>
+  </ion-toolbar>
+</ion-header-->
+
+<ion-content>
+  <div class="screen game-container" id="game-container">
+    <h3 id="time" class="time">Time: 00:00</h3>
+    <h3 id="score" class="score">Score: 0</h3>
+    <h5 id="message" class="message">
+      Are you annoyed yet? <br />
+      You are playing an impossible game!!
+    </h5>
+    <div
+      *ngFor="let bug of bugs; let i = index" class="insect">
+      <img (click)="deleteBug(i)"
+      src="{{bug.img}}"
+      style="transform: rotate({{bug.rotation}}deg); top: {{bug.y}}px; left: {{bug.x}}px;position: relative;"
+    />
+    </div>
+    
+  </div>
+</ion-content>
