@@ -1,21 +1,32 @@
-# Lista de temas propuestos
+# 🧠 Mapa de Temas — Formación de Pensamiento
 
-## Provocación / Ruptura de ideas automáticas
-- Jeffrey Epstein, el amigo de todos los niños
-- La guerra mundial perpetua
-- Hitler did nothing wrong
-- La democracia no funciona
-- Paz en la guerra de los sexos
+## 🟢 Nivel 1 — Exploración
+- Pensamiento crítico  
+- Pensamiento y criterio  
+- Cómo ver por ti, cómete el mundo  
+- Tecnología y cambio de vida  
+- Las revoluciones industriales previas y la actual  
 
-## Pensamiento y criterio
-- Pensamiento crítico
-- Hablemos del libre albedrío
-- Cómo ver por ti, comete el mundo
+---
 
-## Tecnología y cambio de vida
-- Qué cambia la vida la IA
-- Las revoluciones industriales previas y la actual
+## 🟡 Nivel 2 — Reflexión
+- Hablemos del libre albedrío  
+- Qué cambia la vida la IA  
+- Hablemos de economía (valor del trabajo & espíritu del capitalismo)  
+- Ciclo agrícola  
 
-## Economía y sistemas
-- Hablemos de economía (el valor del trabajo & Espíritu del Capitalismo)
-- Ciclo agrícola
+---
+
+## 🟠 Nivel 3 — Debate
+- La democracia no funciona  
+- Paz en la guerra de los sexos  
+- La guerra mundial perpetua  
+
+---
+
+## 🔴 Nivel 4 — Análisis profundo
+- Construcción de narrativas y propaganda  
+- Figuras de poder, escándalos y percepción pública  
+- Creencias, evidencia y manipulación  
+
+---
