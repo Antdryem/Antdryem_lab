@@ -14,7 +14,7 @@ aprendizaje continuo.
 ### ¿Qué es este proyecto?
 
 Este trabajo está siendo desarrollado por mí, junto con **estudiantes de
-escuelas católicas**, con el objetivo de:
+escuelas de 12 a 22 años**, con el objetivo de:
 
 - Aprender tecnología de forma crítica y responsable  
 - Comprender la inteligencia artificial desde el uso práctico, no desde la moda  
