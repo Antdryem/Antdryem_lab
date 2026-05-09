@@ -1,185 +1,339 @@
-<p align="center">
-  <img src="./temario.png" width="600">
-</p>
-
 # 🌐 Árbol de Alfabetización Digital Estructural  
-*(Versión panorámica → dominio)*
+### *Comprensión crítica del ecosistema digital contemporáneo*
 
 ---
 
-# 🟢 A1 · Mapa Completo del Territorio Digital  
-*(Panorámica sin profundidad técnica)*
+## 📖 Introducción
 
-## 1. Internet como sistema
-- Infraestructura física (cables, servidores)
-- Protocolos como acuerdos humanos
-- Red de redes
-- Superficie vs infraestructura
+La alfabetización digital moderna no consiste únicamente en aprender a usar aplicaciones o dispositivos. Implica comprender cómo funciona el ecosistema digital, cuáles son sus estructuras de poder, qué incentivos lo sostienen y cómo desarrollar autonomía dentro de él.
 
-## 2. Plataformas y poder
-- Qué es una plataforma
-- Centralización
-- Quién decide lo que vemos
+Este programa propone una progresión estructurada desde la comprensión básica del internet hasta la capacidad de analizar críticamente tecnologías emergentes, modelar riesgos y enseñar alfabetización digital a otras personas.
 
-## 3. Herramientas, no magia
-- IA como herramienta
-- Algoritmos como filtros
-- Automatización básica
+La estructura está inspirada en progresiones de dominio similares a los marcos de aprendizaje por niveles (A1–C1), avanzando desde la orientación panorámica hasta el dominio conceptual y pedagógico.
 
-## 4. Atención y economía digital
-- Economía de la atención
-- Publicidad como modelo
-- Datos como activo
+---
 
-## 5. Identidad digital
+# 🟢 A1 · Mapa Mental del Entorno Digital  
+### *Panorámica general sin profundidad técnica*
+
+## 🎯 Objetivo
+Comprender qué es internet, cómo se organiza y qué elementos conforman el entorno digital moderno.
+
+---
+
+## 1. Qué es Internet
+- Internet como red de redes
+- Infraestructura física: cables, servidores y centros de datos
+- Protocolos como acuerdos de comunicación
+- Diferencia entre internet y la web
+
+---
+
+## 2. Historia Breve del Internet
+- Origen académico y militar
+- La web abierta
+- Web 2.0 y plataformas sociales
+- Centralización progresiva del ecosistema digital
+
+---
+
+## 3. Plataformas y Ecosistemas Digitales
+- Qué es una plataforma digital
+- Centralización y dependencia
+- Quién controla lo que vemos
+- Interfaces e influencia sobre el comportamiento
+
+---
+
+## 4. Herramientas Digitales Cotidianas
+- Navegadores web
+- Motores de búsqueda
+- Correo electrónico
+- Servicios en la nube
+- Inteligencia artificial como herramienta
+
+---
+
+## 5. Identidad Digital
 - Usuario vs persona
 - Huella digital
+- Persistencia de la información
 - Reputación acumulativa
-
-## 6. Seguridad básica
-- Contraseñas
-- Verificación en dos pasos
-- Riesgos comunes
-
-## 7. Internet comercial vs no comercial
-- Plataformas grandes
-- Blogs y foros independientes
-- Comunidades pequeñas
-
-## 8. Navegadores como puertas
-- Qué es un navegador
-- Indexación
-- Motores de búsqueda
-
-## 9. Deep Web (desmitificación)
-- Qué significa “no indexado”
-- Infraestructura invisible
-- Narrativa vs realidad
-
-## 10. Blockchain (visión general)
-- Registro distribuido
-- Confianza sin intermediario
-- Narrativa vs uso real
-
-## 11. Computación cuántica (visión general)
-- Qué significa “cuántico”
-- Diferencia con computación clásica
-- Qué problemas promete resolver
 
 ---
 
-# 🟡 A2 · Comprensión de Sistemas
+## 6. Seguridad Básica
+- Contraseñas seguras
+- Verificación en dos pasos (2FA)
+- Riesgos comunes en internet
+- Ingeniería social básica
 
-## 1. Cómo funcionan los algoritmos
-- Recomendación
-- Ranking
-- Personalización
+---
 
-## 2. Modelos de negocio digitales
-- Publicidad
-- Suscripción
-- Venta de datos
+## 7. Economía del Internet
+- Publicidad como modelo de negocio
+- Economía de la atención
+- Datos como activo económico
+- Gratuito vs monetizado indirectamente
 
-## 3. Arquitectura de plataformas
-- Backend y frontend (conceptual)
-- Moderación
-- Incentivos
+---
 
-## 4. Reddit como ecosistema
-- Subcomunidades
-- Moderadores
-- Cultura comunitaria
+# 🟡 A2 · Comprensión de Sistemas Digitales  
+### *Cómo funcionan los mecanismos del ecosistema digital*
 
-## 5. Cookies y rastreo
+## 🎯 Objetivo
+Comprender cómo operan los sistemas digitales, los algoritmos y los modelos de negocio detrás de las plataformas.
+
+---
+
+## 1. Algoritmos y Personalización
+- Sistemas de recomendación
+- Ranking de contenido
+- Personalización algorítmica
+- Burbujas de información
+
+---
+
+## 2. Arquitectura Básica de Plataformas
+- Frontend y backend (visión conceptual)
+- Moderación de contenido
+- Escalabilidad
+- Incentivos de diseño
+
+---
+
+## 3. Cookies y Rastreo Digital
 - Qué es una cookie
 - Seguimiento entre sitios
 - Perfilado básico
-
-## 6. Introducción conceptual a VPN
-- Qué protege
-- Qué no protege
-- Casos de uso
-
-## 7. Blockchain más allá del mito
-- Descentralización real vs aparente
-- Casos útiles
-- Limitaciones
-
-## 8. Computación cuántica y criptografía
-- Riesgo futuro para seguridad
-- Investigación actual
+- Publicidad personalizada
 
 ---
 
-# 🟠 B1 · Autonomía Digital
+## 4. Comunidades Digitales
+- Foros, blogs y redes sociales
+- Subcomunidades y moderación
+- Cultura digital y normas implícitas
+- Construcción de reputación comunitaria
 
-## 1. Gestión consciente de identidad
+---
+
+## 5. Modelos de Negocio Digitales
+- Publicidad
+- Suscripciones
+- Venta de servicios
+- Monetización de datos
+
+---
+
+## 6. Deep Web y Surface Web
+- Qué significa “no indexado”
+- Infraestructura invisible
+- Mitos y narrativas populares
+- Diferencia entre narrativa mediática y realidad técnica
+
+---
+
+## 7. VPN y Privacidad Conceptual
+- Qué protege una VPN
+- Qué no protege
+- Casos de uso reales
+- Limitaciones prácticas
+
+---
+
+# 🟠 B1 · Autonomía Digital  
+### *Desarrollo de criterio y control personal*
+
+## 🎯 Objetivo
+Desarrollar hábitos, criterios y prácticas que permitan navegar el ecosistema digital con mayor autonomía y consciencia.
+
+---
+
+## 1. Gestión de Identidad Digital
 - Separación de perfiles
 - Reputación estratégica
+- Identidad personal, pública y profesional
 
-## 2. Privacidad práctica
-- Configuraciones clave
+---
+
+## 2. Privacidad Práctica
+- Configuraciones importantes
 - Minimización de exposición
+- Gestión de permisos y accesos
+- Hábitos de seguridad cotidiana
 
-## 3. Curaduría de información
-- Evaluar fuentes
+---
+
+## 3. Curaduría de Información
+- Evaluación de fuentes
 - Señales de manipulación
+- Verificación básica de información
+- Diferenciar ruido de valor
 
-## 4. Participación en comunidades
+---
+
+## 4. Participación en Comunidades
 - Normas implícitas
-- Construcción de reputación
+- Construcción de credibilidad
+- Comunicación digital responsable
+- Dinámicas sociales en línea
 
-## 5. Infraestructura alternativa
+---
+
+## 5. Infraestructura Alternativa
 - RSS
-- Fediverso (conceptual)
+- Blogs independientes
+- Fediverso (visión conceptual)
 - Comunidades descentralizadas
 
-## 6. Modelos de amenaza personales
-- Qué quiero proteger
-- De quién
-- Por qué
+---
+
+## 6. Diseño de Entorno Digital Personal
+- Organización de información
+- Rutinas digitales conscientes
+- Gestión de atención
+- Reducción de dependencia algorítmica
 
 ---
 
-# 🔵 B2 · Análisis Crítico del Ecosistema
+# 🔵 B2 · Análisis Crítico del Ecosistema Digital  
+### *Comprensión estructural del poder, la economía y la influencia digital*
 
-## 1. Capitalismo de datos
-- Datos como recurso
+## 🎯 Objetivo
+Analizar críticamente las estructuras que sostienen el ecosistema digital contemporáneo y sus impactos sociales, culturales y políticos.
+
+---
+
+## 1. Capitalismo de Datos
+- Datos como recurso estratégico
 - Monetización estructural
+- Incentivos económicos de las plataformas
 
-## 2. Geopolítica digital
-- Infraestructura global
-- Soberanía tecnológica
+---
 
-## 3. Centralización vs descentralización
-- Ventajas
-- Riesgos
-
-## 4. Arquitectura de vigilancia
+## 2. Arquitectura de Vigilancia
 - Seguimiento masivo
 - Diseño persuasivo
-
-## 5. Narrativa cultural del internet oscuro
-- Miedo mediático
-- Realidad técnica
-
-## 6. Blockchain como fenómeno económico
-- Especulación
-- Gobernanza
-- Incentivos
-
-## 7. Futuro de la criptografía
-- Impacto cuántico
-- Nuevos modelos
+- Economía de la atención
+- Sistemas de captura conductual
 
 ---
 
-# 🔴 C1 · Dominio Estructural y Capacidad de Explicar
+## 3. Centralización y Descentralización
+- Ventajas y riesgos
+- Dependencia tecnológica
+- Concentración de poder
+- Narrativas descentralizadas
 
-## 1. Diseñar entornos digitales responsables
-## 2. Evaluar nuevas tecnologías sin mitificarlas
-## 3. Modelar riesgos complejos
-## 4. Analizar poder digital sistémico
-## 5. Enseñar alfabetización digital
-## 6. Construir comunidades digitales sanas
-## 7. Pensar el futuro del internet
+---
+
+## 4. Geopolítica Digital
+- Infraestructura global
+- Soberanía tecnológica
+- Dependencias estratégicas
+- Empresas tecnológicas como actores geopolíticos
+
+---
+
+## 5. Narrativas Tecnológicas
+- Inteligencia artificial
+- Blockchain
+- Deep web
+- Computación cuántica
+- Diferencia entre narrativa, marketing y realidad técnica
+
+---
+
+## 6. Tecnologías Emergentes
+
+### Blockchain
+- Registro distribuido
+- Casos de uso reales
+- Gobernanza
+- Especulación y limitaciones
+
+### Computación Cuántica
+- Diferencia con computación clásica
+- Impacto potencial en criptografía
+- Estado actual de investigación
+
+---
+
+## 7. Impacto Humano del Ecosistema Digital
+- Psicología de plataformas
+- Ansiedad informativa
+- Tribalismo digital
+- Hiperestimulación
+- Radicalización algorítmica
+- Burnout digital
+
+---
+
+# 🔴 C1 · Dominio Estructural y Capacidad de Explicar  
+### *Capacidad de análisis, diseño y enseñanza*
+
+## 🎯 Objetivo
+Desarrollar la capacidad de explicar, evaluar y diseñar entornos digitales desde una comprensión estructural y crítica.
+
+---
+
+## 1. Diseño de Entornos Digitales Responsables
+- Ética del diseño
+- Incentivos saludables
+- Experiencia de usuario consciente
+- Impacto social del diseño tecnológico
+
+---
+
+## 2. Modelado de Riesgos
+- Riesgos personales
+- Riesgos organizacionales
+- Riesgos sociales
+- Evaluación contextual de amenazas
+
+---
+
+## 3. Análisis Sistémico del Poder Digital
+- Infraestructura y control
+- Gobernanza tecnológica
+- Concentración de plataformas
+- Relación entre tecnología y poder
+
+---
+
+## 4. Enseñanza de Alfabetización Digital
+- Traducción de complejidad
+- Comunicación pedagógica
+- Explicación sin tecnicismos innecesarios
+- Diseño de experiencias de aprendizaje
+
+---
+
+## 5. Construcción de Comunidades Digitales Sanas
+- Cultura comunitaria
+- Moderación
+- Normas e incentivos
+- Prevención de dinámicas destructivas
+
+---
+
+## 6. Pensar el Futuro del Internet
+- Tendencias emergentes
+- Riesgos estructurales
+- Escenarios posibles
+- Futuro de la identidad, privacidad y gobernanza digital
+
+---
+
+# 🎯 Objetivo Final del Programa
+
+Al finalizar este recorrido, la persona será capaz de:
+
+- Comprender estructuralmente el ecosistema digital
+- Analizar críticamente plataformas y tecnologías
+- Desarrollar autonomía digital práctica
+- Identificar incentivos, riesgos y mecanismos de influencia
+- Explicar conceptos digitales complejos de manera accesible
+- Participar de forma más consciente y responsable en entornos digitales
+- Evaluar nuevas tecnologías sin caer en mitificación ni alarmismo
